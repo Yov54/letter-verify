@@ -13,7 +13,7 @@ export default async function VerifyPage({ params }) {
 
   const letters = [
     {
-      token: "NjVhMGJjNWZjNTAyZmJhMDA5Y2Y4ZDBk.Njk4YzM5NWNhNjg3MmNkMDY2NGE4YjU2",
+      token: "ZjQ2YjE3OWQ2MzBhY2U1ZjE2NzQxNzJh.N2Q5YjJhZTQ3ZmM4MTQzY2E2MjM5ZTUx",
       name: "YOVI REVIKASARI",
       birth: "21-03-2003",
       nik: "3674062103030011",
